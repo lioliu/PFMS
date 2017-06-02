@@ -228,9 +228,9 @@
             this.label9.AutoSize = true;
             this.label9.Location = new System.Drawing.Point(263, 199);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(41, 12);
+            this.label9.Size = new System.Drawing.Size(89, 12);
             this.label9.TabIndex = 17;
-            this.label9.Text = "label9";
+            this.label9.Text = "错误的邮箱格式";
             // 
             // label10
             // 
